@@ -110,5 +110,6 @@ During the week-long correct-a-thon our team
 Arthur, Benedicta, Chemisova, Anna, and Noirot, Marie. (10 February 2023). PBP Challenge Besançon: Stanford ms. 23. *Paris Bible Project.*
 
 *All images are in [the Google Drive folder](https://drive.google.com/drive/folders/1kCz6oWlu00yGC8OsVousJgrPfxuXhP85)*
+<br>
 *This page is also available on [the Github](https://github.com/chmsv/pbc/blob/main/PBP%20Challenge%20Besancon_Stanford_ms23.md)*
 
